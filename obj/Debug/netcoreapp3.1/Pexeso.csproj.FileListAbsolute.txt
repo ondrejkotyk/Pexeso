@@ -1,0 +1,17 @@
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.exe
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.deps.json
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.json
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.dev.json
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.dll
+C:\Users\Royce\source\repos\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.pdb
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.AssemblyReference.cache
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Form1.resources
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.GenerateResource.cache
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfoInputs.cache
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfo.cs
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.dll
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.pdb
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.genruntimeconfig.cache
+C:\Users\Royce\source\repos\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Properties.Resources.resources

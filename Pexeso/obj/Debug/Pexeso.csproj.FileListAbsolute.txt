@@ -1,0 +1,12 @@
+C:\Users\Royce\source\repos\Pexeso\Pexeso\bin\Debug\Pexeso.exe.config
+C:\Users\Royce\source\repos\Pexeso\Pexeso\bin\Debug\Pexeso.exe
+C:\Users\Royce\source\repos\Pexeso\Pexeso\bin\Debug\Pexeso.pdb
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.AssemblyReference.cache
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.SuggestedBindingRedirects.cache
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.Properties.Resources.resources
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.GenerateResource.cache
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.exe
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.pdb
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.Form1.resources
+C:\Users\Royce\source\repos\Pexeso\Pexeso\obj\Debug\Pexeso.Form2.resources
